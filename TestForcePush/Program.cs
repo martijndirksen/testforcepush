@@ -9,6 +9,8 @@ namespace TestForcePush
       Console.WriteLine("Hello World! Ver 2.0");
 
       Console.WriteLine("New change");
+
+      Console.WriteLine("waat");
     }
   }
 }
