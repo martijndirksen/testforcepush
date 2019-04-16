@@ -6,7 +6,7 @@ namespace TestForcePush
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World! Ver 1.0");
+      Console.WriteLine("Hello World! Ver 2.0");
     }
   }
 }
