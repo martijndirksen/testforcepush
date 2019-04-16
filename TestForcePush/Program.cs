@@ -7,6 +7,7 @@ namespace TestForcePush
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World! Ver 4.0");
+      Console.WriteLine("asdf");
     }
   }
 }
